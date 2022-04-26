@@ -1,0 +1,8 @@
+D:\FreshmanProject\Practice4\Practice4\obj\Debug\ResolveAssemblyReference.cache
+D:\FreshmanProject\Practice4\Practice4\obj\Debug\Practice4.Properties.Resources.resources
+D:\FreshmanProject\Practice4\Practice4\obj\Debug\Practice4.csproj.GenerateResource.Cache
+D:\FreshmanProject\Practice4\Practice4\bin\Debug\Practice4.exe
+D:\FreshmanProject\Practice4\Practice4\bin\Debug\Practice4.pdb
+D:\FreshmanProject\Practice4\Practice4\bin\Debug\nunit.framework.dll
+D:\FreshmanProject\Practice4\Practice4\obj\Debug\Practice4.exe
+D:\FreshmanProject\Practice4\Practice4\obj\Debug\Practice4.pdb
